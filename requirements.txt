@@ -1,13 +1,18 @@
 streamlit
-from PIL import Image
-from PyPDF2 import PdfFileReader
+PIL 
+Image
+PyPDF2
+PdfFileReader
 pdfplumber
 docx2txt
 fitz
 re
 nltk.corpus
-from nltk.corpus import stopwords
-from sklearn.feature_extraction.text import TfidfVectorizer
+nltk.corpus
+stopwords
+sklearn.feature_extraction.text 
+TfidfVectorizer
 spacy
-from spacy.lang.en import English
+spacy.lang.en 
+English
 numpy
