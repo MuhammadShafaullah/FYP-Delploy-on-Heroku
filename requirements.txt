@@ -1,5 +1,5 @@
 streamlit
-PIL ==9.0
+PIL ==9.0.0
 Image
 PyPDF2
 PdfFileReader
