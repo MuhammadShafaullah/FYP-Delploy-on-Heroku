@@ -12,7 +12,6 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 import spacy
 from spacy.lang.en import English
 import numpy as np
-
 stop = stopwords.words('english')
 img = Image.open("web_lo.png")
 st.image(img, width=730)
