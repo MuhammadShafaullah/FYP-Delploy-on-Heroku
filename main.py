@@ -4,8 +4,8 @@ from PyPDF2 import PdfFileReader
 import pdfplumber
 import docx2txt
 import fitz
-
-#import nltk.corpus
+import re
+import nltk.corpus
 from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 import spacy
