@@ -8,6 +8,6 @@ fitz
 stopwords
 scikit-learn==1.0.2
 spacy
-spacy.lang.en 
+
 English
 numpy
