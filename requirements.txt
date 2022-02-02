@@ -5,7 +5,6 @@ PyPDF2
 pdfplumber
 docx2txt
 fitz
-nltk.corpus
 stopwords
 sklearn.feature_extraction.text 
 spacy
