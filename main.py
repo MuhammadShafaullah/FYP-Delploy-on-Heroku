@@ -5,7 +5,6 @@ import pdfplumber
 import PyMuPDF
 import docx2txt
 import fitz
-from fitz.frontend
 import re
 import nltk.corpus
 from nltk.corpus import stopwords
