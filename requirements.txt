@@ -6,7 +6,7 @@ pdfplumber
 docx2txt
 fitz
 stopwords
-sklearn.feature_extraction.text 
+TfidfVectorizer
 spacy
 spacy.lang.en 
 English
