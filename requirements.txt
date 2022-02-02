@@ -2,7 +2,6 @@ streamlit
 Pillow
 Image
 PyPDF2
-PdfFileReader
 pdfplumber
 docx2txt
 fitz
@@ -10,7 +9,6 @@ re
 nltk.corpus
 stopwords
 sklearn.feature_extraction.text 
-TfidfVectorizer
 spacy
 spacy.lang.en 
 English
