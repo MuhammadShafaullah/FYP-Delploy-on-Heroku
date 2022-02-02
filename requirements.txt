@@ -1,6 +1,7 @@
 streamlit
 Pillow
 Image
+PyMuPDF
 PyPDF2
 pdfplumber
 docx2txt
