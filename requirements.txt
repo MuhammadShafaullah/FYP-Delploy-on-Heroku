@@ -7,6 +7,7 @@ docx2txt
 fitz
 stopwords
 scikit-learn==1.0.2
+sklearn.feature_extraction.text
 TfidfVectorizer
 spacy
 spacy.lang.en 
