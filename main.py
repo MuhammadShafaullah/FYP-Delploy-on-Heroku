@@ -2,6 +2,7 @@ import streamlit as st
 from PIL import Image
 from PyPDF2 import PdfFileReader
 import pdfplumber
+import PyMuPDF
 import docx2txt
 import fitz
 from fitz.frontend
