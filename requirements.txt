@@ -6,6 +6,7 @@ pdfplumber
 docx2txt
 fitz
 stopwords
+scikit-learn==1.0.2
 TfidfVectorizer
 spacy
 spacy.lang.en 
