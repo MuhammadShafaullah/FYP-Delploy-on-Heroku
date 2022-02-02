@@ -1,5 +1,5 @@
 streamlit
-PIL
+heroku run pip install PIL --allow-unverified=PIL --app=nava-app
 Image
 PyPDF2
 PdfFileReader
